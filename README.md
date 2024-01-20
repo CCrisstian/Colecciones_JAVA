@@ -1,6 +1,6 @@
 <h1 align="center"><b>HashSet</b></h1>
 
-<p>En JAVA, <b>'HashSet'</b> es una clase que implementa la interfaz <b>Set</b> y extiende la clase <b>AbstractSet</b>b>. Representa una colección que no permite elementos duplicados y no garantiza el orden de los elementos. Está respaldada por una tabla hash, lo que permite un acceso rápido y eficiente a los elementos.</p>
+<p>En JAVA, <b>'HashSet'</b> es una clase que implementa la interfaz <b>Set</b> y extiende la clase <b>AbstractSet</b>. Representa una colección que no permite elementos duplicados y no garantiza el orden de los elementos. Está respaldada por una tabla hash, lo que permite un acceso rápido y eficiente a los elementos.</p>
 
 <p>Algunas características clave de <b>HashSet</b> son:</p>
 
