@@ -1,4 +1,16 @@
-<h1 align="center">Métodos de Collection</h1>
+<h1 align="center"><b>HashSet</b></h1>
+
+<p>En JAVA, <b>'HashSet'</b> es una clase que implementa la interfaz <b>Set</b> y extiende la clase <b>AbstractSet</b>b>. Representa una colección que no permite elementos duplicados y no garantiza el orden de los elementos. Está respaldada por una tabla hash, lo que permite un acceso rápido y eficiente a los elementos.</p>
+
+<p>Algunas características clave de <b>HashSet</b> son:</p>
+
+- <b>No permite duplicados:</b> Si intentas agregar un elemento que ya existe en el conjunto, la operación no tendrá ningún efecto y el conjunto permanecerá sin cambios.
+
+- <b>No garantiza orden:</b>  Los elementos en un HashSet no se almacenan en un orden específico. Si necesitas un orden específico, podrías considerar usar LinkedHashSet, que mantiene el orden de inserción, o TreeSet, que ordena los elementos naturalmente o mediante un comparador.
+
+- <b>Permite elementos nulos:</b>  Un HashSet puede contener un único elemento nulo. Si intentas agregar más de un elemento nulo, se ignorarán.
+
+<h2 align="center">Métodos de Collection</h2>
 
 - <b>boolean add( Object )</b> Agrega un elemento a la colección. Devuelve false si no se pudo agregar.
 
@@ -22,7 +34,7 @@
 
 - <b>Object[] toArray()</b>
 
-<h1 align="center">Métodos adicionales del LinkedList</h1>
+<h2 align="center">Métodos adicionales del LinkedList</h2>
 <p>Que no están definidos en ningún interfaz o clase base y que permiten utilizar la Lista Enlazada como una Pila y una Cola.</p>
 
 - <b>addFirst()</b>
