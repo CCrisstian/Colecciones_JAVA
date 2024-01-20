@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b5415bc-661f-4d99-9dbd-5be60e6ba9d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/org/CCristian/Ejemplos/Set/Ejemplo_HashSet_Agregar.java" afterDir="false" />
+    <list default="true" id="1b5415bc-661f-4d99-9dbd-5be60e6ba9d5" name="Changes" comment="1er Ejemplo_HashSet_Agregar">
+      <change afterPath="$PROJECT_DIR$/src/org/CCristian/Ejemplos/Modelos/Alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/CCristian/Ejemplos/Set/Ejemplo_HashSet_BuscarDuplicado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/CCristian/Ejemplos/Set/Ejemplo_HashSet_BuscarDuplicado_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/CCristian/Ejemplos/Set/Ejemplo_HashSet_Unicidad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/CCristian/Ejemplos/Set/Ejemplo_TreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/CCristian/Ejemplos/Set/Ejemplo_TreeSet_Comparable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,9 +28,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2bC3bNovY97jYvSQWBMPCU8CLRf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -35,6 +43,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Ejemplo_HashSet_Agregar.executor": "Run",
+    "Application.Ejemplo_HashSet_BuscarDuplicado.executor": "Run",
+    "Application.Ejemplo_HashSet_BuscarDuplicado_2.executor": "Run",
+    "Application.Ejemplo_HashSet_Unicidad.executor": "Run",
+    "Application.Ejemplo_TreeSet.executor": "Run",
+    "Application.Ejemplo_TreeSet_Comparable.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -42,6 +55,11 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.CCristian.Ejemplos.Set" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -58,6 +76,19 @@
       <option name="presentableId" value="Default" />
       <updated>1705705305381</updated>
     </task>
+    <task id="LOCAL-00001" summary="1er Ejemplo_HashSet_Agregar">
+      <option name="closed" value="true" />
+      <created>1705707476814</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705707476814</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1er Ejemplo_HashSet_Agregar" />
+    <option name="LAST_COMMIT_MESSAGE" value="1er Ejemplo_HashSet_Agregar" />
   </component>
 </project>
