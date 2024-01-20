@@ -1,14 +1,26 @@
-<h1 align="center"><b>*HashSet*</b></h1>
+<h1 align="center"><b>HashSet</b></h1>
 
 <p>En JAVA, <b>'HashSet'</b> es una clase que implementa la interfaz <b>Set</b> y extiende la clase <b>AbstractSet</b>b>. Representa una colección que no permite elementos duplicados y no garantiza el orden de los elementos. Está respaldada por una tabla hash, lo que permite un acceso rápido y eficiente a los elementos.</p>
 
 <p>Algunas características clave de <b>HashSet</b> son:</p>
 
-- <b>*No permite duplicados*:</b> Si intentas agregar un elemento que ya existe en el conjunto, la operación no tendrá ningún efecto y el conjunto permanecerá sin cambios.
+- <b>No permite duplicados:</b> Si intentas agregar un elemento que ya existe en el conjunto, la operación no tendrá ningún efecto y el conjunto permanecerá sin cambios.
 
 - <b>No garantiza orden:</b>  Los elementos en un HashSet no se almacenan en un orden específico. Si necesitas un orden específico, podrías considerar usar LinkedHashSet, que mantiene el orden de inserción, o TreeSet, que ordena los elementos naturalmente o mediante un comparador.
 
 - <b>Permite elementos nulos:</b>  Un HashSet puede contener un único elemento nulo. Si intentas agregar más de un elemento nulo, se ignorarán.
+
+<h1 align="center"><b>TreeSet</b></h1>
+
+<p>En JAVA, <b>'TreeSet'</b> es una clase que implementa la interfaz <b>Set</b> y extiende la clase <b>AbstractSet</b>. Representa una colección que no permite elementos duplicados y mantiene los elementos ordenados en orden natural o mediante un comparador personalizado. A diferencia de <b>'HashSet'</b>, <b>'TreeSet'</b> garantiza un orden específico para sus elementos, lo cual es útil en situaciones donde se necesita iterar o recuperar elementos en un orden predefinido.</p>
+
+<p>Algunas características clave de <b>TreeSet</b> son:</p>
+
+- <b>No permite duplicados:</b> Similar a HashSet, TreeSet no permite la inclusión de elementos duplicados. Si intentas agregar un elemento que ya existe en el conjunto, la operación no tendrá ningún efecto.
+
+- <b>Mantiene el orden:</b> Los elementos en un TreeSet se almacenan y ordenan automáticamente. Puedes usar el orden natural de los elementos (si son comparables) o proporcionar un comparador personalizado.
+
+- <b>Implementa la interfaz NavigableSet:</b> TreeSet implementa la interfaz NavigableSet, que proporciona métodos adicionales para la navegación y búsqueda eficientes en el conjunto.
 
 <h2 align="center">Métodos de Collection</h2>
 
