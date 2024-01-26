@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b5415bc-661f-4d99-9dbd-5be60e6ba9d5" name="Changes" comment="1er Ejemplo_HashSet_Agregar">
-      <change afterPath="$PROJECT_DIR$/src/org/CCristian/Ejemplos/Modelos/Alumno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/CCristian/Ejemplos/Set/Ejemplo_HashSet_BuscarDuplicado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/CCristian/Ejemplos/Set/Ejemplo_HashSet_BuscarDuplicado_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/CCristian/Ejemplos/Set/Ejemplo_HashSet_Unicidad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/CCristian/Ejemplos/Set/Ejemplo_TreeSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/CCristian/Ejemplos/Set/Ejemplo_TreeSet_Comparable.java" afterDir="false" />
+    <list default="true" id="1b5415bc-661f-4d99-9dbd-5be60e6ba9d5" name="Changes" comment="Ejemplos usando Comparator()">
+      <change afterPath="$PROJECT_DIR$/src/org/CCristian/Ejemplos/Set/Ejemplo_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/CCristian/Ejemplos/Set/Ejemplo_List_Comparable_Comparator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/CCristian/Ejemplos/Set/Ejemplo_HashSet_Unicidad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/CCristian/Ejemplos/Set/Ejemplo_HashSet_Unicidad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/CCristian/Ejemplos/Set/Ejemplo_TreeSet_Comparable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/CCristian/Ejemplos/Set/Ejemplo_TreeSet_Comparable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,10 +40,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Ejemplo_ArrayList.executor": "Run",
     "Application.Ejemplo_HashSet_Agregar.executor": "Run",
     "Application.Ejemplo_HashSet_BuscarDuplicado.executor": "Run",
     "Application.Ejemplo_HashSet_BuscarDuplicado_2.executor": "Run",
     "Application.Ejemplo_HashSet_Unicidad.executor": "Run",
+    "Application.Ejemplo_List_Comparable_Comparator.executor": "Run",
     "Application.Ejemplo_TreeSet.executor": "Run",
     "Application.Ejemplo_TreeSet_Comparable.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -84,11 +84,20 @@
       <option name="project" value="LOCAL" />
       <updated>1705707476814</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Ejemplos usando Comparator()">
+      <option name="closed" value="true" />
+      <created>1705762235005</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705762235006</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1er Ejemplo_HashSet_Agregar" />
-    <option name="LAST_COMMIT_MESSAGE" value="1er Ejemplo_HashSet_Agregar" />
+    <MESSAGE value="Ejemplos usando Comparator()" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejemplos usando Comparator()" />
   </component>
 </project>
