@@ -1,4 +1,4 @@
-package org.CCristian.Ejemplos.Set;
+package org.CCristian.Ejemplos.List;
 import org.CCristian.Ejemplos.Modelos.Alumno;
 import java.util.ArrayList;
 import java.util.List;

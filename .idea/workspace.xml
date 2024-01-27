@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b5415bc-661f-4d99-9dbd-5be60e6ba9d5" name="Changes" comment="Ejemplos usando Comparator()">
-      <change afterPath="$PROJECT_DIR$/src/org/CCristian/Ejemplos/Set/Ejemplo_ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/CCristian/Ejemplos/Set/Ejemplo_List_Comparable_Comparator.java" afterDir="false" />
+    <list default="true" id="1b5415bc-661f-4d99-9dbd-5be60e6ba9d5" name="Changes" comment="Ejemplos usando Java.util">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/CCristian/Ejemplos/List/Ejemplo_LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/CCristian/Ejemplos/Map/Ejemplo_HashMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/CCristian/Ejemplos/Set/Ejemplo_HashSet_Unicidad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/CCristian/Ejemplos/Set/Ejemplo_HashSet_Unicidad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/CCristian/Ejemplos/Set/Ejemplo_TreeSet_Comparable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/CCristian/Ejemplos/Set/Ejemplo_TreeSet_Comparable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/CCristian/Ejemplos/Set/Ejemplo_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/CCristian/Ejemplos/List/Ejemplo_ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/CCristian/Ejemplos/Set/Ejemplo_List_Comparable_Comparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/CCristian/Ejemplos/List/Ejemplo_List_Comparable_Comparator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,15 +42,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Ejemplo_ArrayList.executor": "Run",
+    "Application.Ejemplo_HashMap.executor": "Run",
     "Application.Ejemplo_HashSet_Agregar.executor": "Run",
     "Application.Ejemplo_HashSet_BuscarDuplicado.executor": "Run",
     "Application.Ejemplo_HashSet_BuscarDuplicado_2.executor": "Run",
     "Application.Ejemplo_HashSet_Unicidad.executor": "Run",
+    "Application.Ejemplo_LinkedList.executor": "Run",
     "Application.Ejemplo_List_Comparable_Comparator.executor": "Run",
     "Application.Ejemplo_TreeSet.executor": "Run",
     "Application.Ejemplo_TreeSet_Comparable.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true"
@@ -92,12 +96,21 @@
       <option name="project" value="LOCAL" />
       <updated>1705762235006</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Ejemplos usando Java.util">
+      <option name="closed" value="true" />
+      <created>1706280990213</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706280990213</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1er Ejemplo_HashSet_Agregar" />
     <MESSAGE value="Ejemplos usando Comparator()" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejemplos usando Comparator()" />
+    <MESSAGE value="Ejemplos usando Java.util" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejemplos usando Java.util" />
   </component>
 </project>
