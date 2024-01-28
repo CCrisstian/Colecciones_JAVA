@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b5415bc-661f-4d99-9dbd-5be60e6ba9d5" name="Changes" comment="Nuevas clases y sus respectivos métodos de iteración y búsqueda.">
+    <list default="true" id="1b5415bc-661f-4d99-9dbd-5be60e6ba9d5" name="Changes" comment="Agregando un valor Map&lt;&gt; a una variable del tipo Map&lt;&gt;">
+      <change afterPath="$PROJECT_DIR$/src/org/CCristian/Ejemplos/Map/Ejemplo_TreeMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/CCristian/Ejemplos/Map/Ejemplo_HashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/CCristian/Ejemplos/Map/Ejemplo_HashMap.java" afterDir="false" />
     </list>
@@ -35,28 +36,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Ejemplo_ArrayList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejemplo_HashMap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejemplo_HashSet_Agregar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejemplo_HashSet_BuscarDuplicado.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejemplo_HashSet_BuscarDuplicado_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejemplo_HashSet_Unicidad.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejemplo_LinkedList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejemplo_List_Comparable_Comparator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejemplo_TreeSet.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejemplo_TreeSet_Comparable.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Ejemplo_ArrayList.executor": "Run",
+    "Application.Ejemplo_HashMap.executor": "Run",
+    "Application.Ejemplo_HashSet_Agregar.executor": "Run",
+    "Application.Ejemplo_HashSet_BuscarDuplicado.executor": "Run",
+    "Application.Ejemplo_HashSet_BuscarDuplicado_2.executor": "Run",
+    "Application.Ejemplo_HashSet_Unicidad.executor": "Run",
+    "Application.Ejemplo_LinkedList.executor": "Run",
+    "Application.Ejemplo_List_Comparable_Comparator.executor": "Run",
+    "Application.Ejemplo_TreeMap.executor": "Run",
+    "Application.Ejemplo_TreeSet.executor": "Run",
+    "Application.Ejemplo_TreeSet_Comparable.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.CCristian.Ejemplos.Map" />
       <recent name="org.CCristian.Ejemplos.Set" />
     </key>
   </component>
@@ -108,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706368458269</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Agregando un valor Map&lt;&gt; a una variable del tipo Map&lt;&gt;">
+      <option name="closed" value="true" />
+      <created>1706449070360</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706449070360</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -116,6 +127,7 @@
     <MESSAGE value="Ejemplos usando Comparator()" />
     <MESSAGE value="Ejemplos usando Java.util" />
     <MESSAGE value="Nuevas clases y sus respectivos métodos de iteración y búsqueda." />
-    <option name="LAST_COMMIT_MESSAGE" value="Nuevas clases y sus respectivos métodos de iteración y búsqueda." />
+    <MESSAGE value="Agregando un valor Map&lt;&gt; a una variable del tipo Map&lt;&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agregando un valor Map&lt;&gt; a una variable del tipo Map&lt;&gt;" />
   </component>
 </project>

@@ -83,7 +83,6 @@ public class Ejemplo_HashMap {
                 for (Map.Entry<String, String>parDir: direccion_Map.entrySet()){
                     System.out.println("\t"+parDir.getKey() +" ==> "+parDir.getValue());
                 }
-
             }else {
                 System.out.println("Key: " + par.getKey() + " => Value:" + valor);
             }
